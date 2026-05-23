@@ -133,7 +133,7 @@ alias vz="v ~/.zshrc"
 alias sz="source ~/.zshrc"
 
 # --- Dotfiles ---
-alias config='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
+alias gitdot='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
 
 # --- Git ---
 alias gs="git status"
