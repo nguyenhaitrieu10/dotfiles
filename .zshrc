@@ -123,7 +123,7 @@ export GLOBALBIN="/usr/local/bin"
 export GLOBALSHARE="/usr/local/share"
 
 # --- Neo Vim ---
-
+alias vlua="vim ~/.config/nvim/init.lua"
 
 # --- common ---
 alias v="nvim"
